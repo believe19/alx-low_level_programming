@@ -2,7 +2,6 @@
 
 /**
  * main - main access
- *
  * Return: 0 always
  */
 
