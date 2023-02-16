@@ -1,7 +1,8 @@
 #include <stdio.h>
 
 /**
- * main - main acess
+ * main - main access
+ *
  * Return: 0 always
  */
 
